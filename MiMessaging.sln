@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiMessaging.Entities", "MiMessaging.Entities\MiMessaging.Entities.csproj", "{9CEAE511-AA92-45B7-BF9F-3AE193AC4F6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiMessaging.Api", "MiMessaging.Api\MiMessaging.Api.csproj", "{7CD68F18-D9CD-496C-9B20-9F6D679E8DF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MiMessaging.Vue", "MiMesaging.Vue", "{7D379284-217C-44F1-8828-702982B0C693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEAE511-AA92-45B7-BF9F-3AE193AC4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEAE511-AA92-45B7-BF9F-3AE193AC4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEAE511-AA92-45B7-BF9F-3AE193AC4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEAE511-AA92-45B7-BF9F-3AE193AC4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD68F18-D9CD-496C-9B20-9F6D679E8DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD68F18-D9CD-496C-9B20-9F6D679E8DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD68F18-D9CD-496C-9B20-9F6D679E8DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD68F18-D9CD-496C-9B20-9F6D679E8DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E1D711-837F-46CE-81AD-AD1AE9957919}
+	EndGlobalSection
+EndGlobal
